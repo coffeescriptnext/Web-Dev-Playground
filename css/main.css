@@ -1,0 +1,18 @@
+.code-space {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    height: 30vh;
+    display: inline-block;
+    overflow: scroll;
+}
+
+#preview {
+    height: 50vh;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    background-color: white;
+}
+
+
